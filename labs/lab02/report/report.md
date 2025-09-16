@@ -86,51 +86,55 @@ header-includes:
 
 Создаём пользователя guest и задаём пароль (рис. [-@fig:001]).
 
-![Создаём пользователя](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Создаём пользователя](image/18.jpg){#fig:001 width=70%}
 
 Входим под guest
 
-![Входим](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Входим](image/19.jpg){#fig:001 width=70%}
 
 Где мы находимся и домашний каталог
 
-![домашний каталог](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![домашний каталог](image/20.jpg){#fig:001 width=70%}
 
 Кто мы и какие группы
 
-![группы](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![группы](image/21.jpg){#fig:001 width=70%}
 
 Сверяем с /etc/passwd
 
-![Сверяем](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Сверяем](image/22.jpg){#fig:001 width=70%}
 
 Смотрим /home и права на подкаталоги
 
-![Смотрим](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Смотрим](image/23.jpg){#fig:001 width=70%}
 
 Расширенные атрибуты lsattr по /home
 
-![Расширенные атрибуты](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Расширенные атрибуты](image/24.jpg){#fig:001 width=70%}
 
 Создаём dir1 и смотрим права+атрибуты
 
-![Создаём dir1](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Создаём dir1](image/25.jpg){#fig:001 width=70%}
 
 Снимаем все права с dir1
 
-![Снимаем все права](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Снимаем все права](image/26.jpg){#fig:001 width=70%}
 
 Пробуем создать файл в закрытой dir1
 
-![Пробуем создать файл](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Пробуем создать файл](image/27.jpg){#fig:001 width=70%}
 
 Эксперименты для Табл. 2.1 (разрешено/запрещено)
 
-![Табл. 2.1](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Табл. 2.1](image/28.jpg){#fig:001 width=70%}
 
 Дальше меняем права и пробуем операции. Примеры тестов (записывай в табл. «+»/«−»):
 
-![меняем права](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![меняем права](image/29.jpg){#fig:001 width=70%}
+
+![меняем права](image/30.jpg){#fig:001 width=70%}
+
+![меняем права](image/31.jpg){#fig:001 width=70%}
 
 # Выводы
 
